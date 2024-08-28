@@ -31,7 +31,7 @@
 
 ## 需要调节的参数
 
-![cover_description](E:\github\自用 下落式音游脚本 按键精灵+python辅助\cover_description.png)
+![cover_description](cover_description.png)
 
 Sub ProcessColor(x1, y1, x2, y2, colors, list1, list2)
 
